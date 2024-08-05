@@ -10,8 +10,8 @@
 
 <br>
 
-| ![Tela 1](https://github.com/user-attachments/assets/21b52167-de95-42b7-98e8-2c2c0b79d9d7) | ![Tela 2](https://github.com/user-attachments/assets/46d13b00-ef7a-4efa-859e-2ef32fce7fb1) | ![Tela 3](https://github.com/user-attachments/assets/9fec3ea5-c686-4405-ad72-844e6d7f5f02) |
-|:---:|:---:|:---:|
+| ![Tela 1](https://github.com/user-attachments/assets/1dc439e9-7575-4818-b430-7f0711ae7e64) | ![Tela 2](https://github.com/user-attachments/assets/1dc439e9-7575-4818-b430-7f0711ae7e64) | ![Tela 3](https://github.com/user-attachments/assets/05adbc37-0532-4f23-9524-59258c82d8c4) | ![Tela 4](https://github.com/user-attachments/assets/60bfb8f5-b3ac-464c-a612-4002ab30e2b7) | ![Tela 5](https://github.com/user-attachments/assets/14fed2db-1722-4053-91be-471bda938ca7) | ![Tela 5](https://github.com/user-attachments/assets/ac7cac00-a110-4c94-b276-dbb8866a61d4) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ## 🚀 Tecnologias
 
