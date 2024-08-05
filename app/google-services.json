@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384497298346",
+    "project_id": "aplicativos-de-filmes",
+    "storage_bucket": "aplicativos-de-filmes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384497298346:android:6e4ec71855c421adfcd9d3",
+        "android_client_info": {
+          "package_name": "com.fabricio.appdefilmes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa7Do4oelQoNDlB4ZDavXlxLnHFJSqq6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
